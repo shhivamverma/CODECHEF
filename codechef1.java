@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class codechef1
+public class codechef1                                                                        // Problem ATM Machine
 {
 	public static void main (String args[]) throws java.lang.Exception
 	{
