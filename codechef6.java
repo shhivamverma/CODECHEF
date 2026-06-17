@@ -3,7 +3,7 @@
 import java.util.*;
 public class codechef6
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                                    // Problem - Chef Diet
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
