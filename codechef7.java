@@ -1,5 +1,5 @@
 import java.util.*;
-public class codechef7
+public class codechef7                                             // Problem Break the Stick
 {
     public static void main(String args[]) 
     {
