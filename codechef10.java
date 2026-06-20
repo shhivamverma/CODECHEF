@@ -3,7 +3,7 @@
 import java.util.*;
 public class codechef10
 {
-    public static void main(String args[])
+    public static void main(String args[])                          // Problem - Greater Average
     {
         Scanner sc=new Scanner(System.in);
         int T=sc.nextInt();
