@@ -3,7 +3,7 @@
 import java.util.*;
 public class codechef11
 {
-    public static void main(String args[])
+    public static void main(String args[])                                   // Problem - Subscriptions
     {
         Scanner sc=new Scanner(System.in);
         int T=sc.nextInt();
