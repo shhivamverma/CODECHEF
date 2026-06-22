@@ -3,7 +3,7 @@
 import java.util.*;
 public class codechef16
 {
-    public static void main(String args[])
+    public static void main(String args[])                                    // Problem - CRED Coins
     {
         Scanner sc=new Scanner(System.in);
         int T=sc.nextInt();
