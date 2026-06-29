@@ -10,7 +10,7 @@
 import java.util.*;
 public class codechef30
 {
-    public static void main(String args[])
+    public static void main(String args[])                                       // Problem - Average Permutation
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
