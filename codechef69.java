@@ -10,7 +10,7 @@
 import java.util.*;
 public class codechef69
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                                    // Problem Equality (1419)
     {
         Scanner sc=new Scanner(System.in);    
         int t=sc.nextInt();
